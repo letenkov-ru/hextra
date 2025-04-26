@@ -47,7 +47,7 @@ module:
 
   workspace: hugo.work
   imports:
-    - path: github.com/imfing/hextra
+    - path: github.com/letenkov-ru/hextra
 
 markup:
   highlight:
@@ -88,7 +88,7 @@ menu:
         type: search
     - name: GitHub
       weight: 6
-      url: "https://github.com/imfing/hextra"
+      url: "https://github.com/letenkov-ru/hextra"
       params:
         icon: github
 
@@ -155,7 +155,7 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/imfing/hextra/edit/main/exampleSite/content"
+    base: "https://github.com/letenkov-ru/hextra/edit/main/exampleSite/content"
 
   blog:
     list:
@@ -179,7 +179,7 @@ params:
 
     # https://giscus.app/
     giscus:
-      repo: imfing/hextra
+      repo: letenkov-ru/hextra
       repoId: R_kgDOJ9fJag
       category: General
       categoryId: DIC_kwDOJ9fJas4CY7gW
